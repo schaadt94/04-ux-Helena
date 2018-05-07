@@ -32,6 +32,8 @@ a {
     font-family: 'Gothic A1'
 }
 
+
+
 .dropdown > ul {
     display: none;
     position: absolute;
@@ -69,4 +71,8 @@ h3 {
 
 p {
     font-family: 'Montserrat', sans-serif;
+}
+
+img {
+    width: 50%
 }
