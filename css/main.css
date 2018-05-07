@@ -32,7 +32,9 @@ a {
     font-family: 'Gothic A1'
 }
 
-
+li {
+    font-family: 'Montserrat', sans-serif;
+}
 
 .dropdown > ul {
     display: none;
